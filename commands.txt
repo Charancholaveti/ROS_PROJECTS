@@ -45,5 +45,5 @@ python3 draw_letters.py
 5)ros2 run turtlesim turtlesim_node
 termin2
 python3 zigzag_clean.py
-6)ros2 launch nav2_bringup th3_simulation_launch.py headless:=false
+6)ros2 launch nav2_bringup tb3_simulation_launch.py headless:=False
 python3 obstacle.py
