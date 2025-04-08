@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author: You (adapted from Samsung Research example)
+# Author: You (adapted from Samsung Research example)---
 # Description: Navigate TurtleBot3 to 3 poses - original goal, back to near start, and forward from goal
 
 from geometry_msgs.msg import PoseStamped
