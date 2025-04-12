@@ -2,7 +2,7 @@
 type is std_msgs/String. It should publish like
 "Hello World 1"
 "Hello World 2"
-------------
+-------------------
 mkdir ros2_ws
 mkdir src 
 ros2_ws-colcon build
